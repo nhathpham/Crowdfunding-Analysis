@@ -10,7 +10,7 @@ Predictive Analysis of Success and Failure on Crowdfunding Platforms Kickstarter
   <br />
     As of 2021, there are over 1400 crowdfunding organizations in the US2. Currently, the three largest sites are Kickstarter.com, Indiegogo.com, and Crowsupply.com 3. A lot of factors contribute to the success or failure of a campaign on such platforms. Being able to assess whether or not a platform is a good funding option will help creators decide which one(s) to use to maximize their likelihood of success.<br />
    
-![5010](https://user-images.githubusercontent.com/87089936/143928772-6f16a695-031f-4e25-bfa9-a3bdda940b93.png)<br />
+![5010](https://user-images.githubusercontent.com/87089936/143929430-0f53c230-b141-455b-9c3b-89823d9a75bf.png)<br />
 
 ★	Datasets:<br />
   Two datasets are downloaded from the web scraping site WebRobots.io 4, 5. They contain data on all projects hosted on Kickstarter.com between April 2009 and September 2021*, and on Indiegogo between April 2010 and September 2021*. I will refer to documentation from WebRobots.io and a similar Kickstarter dataset on Kaggle.com for description of attributes 6.<br />

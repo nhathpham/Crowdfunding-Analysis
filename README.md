@@ -22,6 +22,7 @@ Predictive Analysis of Success and Failure on Crowdfunding Platforms Kickstarter
 ★	Anticipation:<br />
   Based on differences in the two companies’ business models, a major one being that Kickstarter only supports fixed funding (all or nothing system) while Indiegogo allows both fixed and flexible funding (creators can access partially raised funds) 7, I anticipate Indiegogo will have higher success rates than Kickstarter. Based on initial visualization of the Kickstarter data  (Fig.2), it seems like projects with smaller funding goals and shorter duration from creation to launch will be more likely to succeed on this site.<br />
 <br />
+
 ![5010](https://user-images.githubusercontent.com/87089936/143929073-f0868d13-5861-4404-9400-fefc3b2ffd4b.png)<br />
 
 ★	Methods:<br />
